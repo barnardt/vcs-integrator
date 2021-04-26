@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+th, td {
+  text-align: left !important;
+  padding: 0.5rem;
+}
+
+img {
+  width: 100%;
+}
+
+.dateRow {
+  width: 8rem;
+}
+
+.searchBox {
+  width: 30rem !important;
+}
+
+table {
+  width: 100%;
+}

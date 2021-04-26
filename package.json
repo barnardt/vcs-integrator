@@ -1,0 +1,22 @@
+{
+  "name": "vcs-integrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "helmet": "4.5.0",
+    "node-fetch": "2.6.1"
+  },
+  "devDependencies": {
+    "chai": "4.3.4",
+    "mocha": "8.3.2",
+    "nodemon": "2.0.7"
+  }
+}
